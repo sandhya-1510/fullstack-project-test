@@ -7,7 +7,7 @@ const styles = {
     margin: '50px auto 0',
     padding: '20px',
     backgroundColor: '#f0f0f0',
-    borderRadius: '8px',
+    borderRadius: '9px',
     boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
   },
   formGroup: {
